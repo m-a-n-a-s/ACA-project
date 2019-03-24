@@ -1,2 +1,2 @@
 # ACA-project
-contains assignment and work of aca project
+Contains assignments and work done during the project
